@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there! I'm shushu, a cybersecurity enthusiast and a CTF player, I'll post here some CTF writeups and some IT/hacking tutorials
 
-### More Information
+### Where I play CTF
+[HackTheBox](https://hackthebox.com) 
+[PWNX](https://pwnx.io)
+[TryHackMe](https://tryhackme.com)
 
-A place to include any other types of information that you'd like to include about yourself.
+### My skills
+- Web exploitation
+- Network exploitation
+- Linux
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[0xshushu@protonmail.com](mailto:0xshushu@protonmail.com)
