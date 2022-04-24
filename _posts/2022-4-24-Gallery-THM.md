@@ -122,7 +122,7 @@ Then we can log in database and dump users' hashes
 
 We got it!
 
-### Root
+## Root
 Once we got user.txt our goal is to get root, running sudo -l I noticed we can executed /opt/rootkit.sh as root
 ![](https://raw.githubusercontent.com/0xShushu/0xShushu.github.io/master/_posts/img_1/sudo-l.png)
 
