@@ -4,6 +4,7 @@ title: Gallery - TryHackMe write-up
 ---
 
 Write-up for Gallery TryHackMe CTF
+
 Hi hackers, today I'm gonna writeup gallery, an easy TryHackMe CTF.
 
 ## User
