@@ -7,9 +7,9 @@ permalink: /about/
 Hi there! I'm shushu, a cybersecurity enthusiast and a CTF player, I'll post here some CTF writeups and some IT/hacking tutorials
 
 ### Where I play CTF
-[HackTheBox](https://hackthebox.com) 
-[PWNX](https://pwnx.io)
-[TryHackMe](https://tryhackme.com)
+- [HackTheBox](https://hackthebox.com)
+- [PWNX](https://pwnx.io)
+- [TryHackMe](https://tryhackme.com)
 
 ### My skills
 - Web exploitation
