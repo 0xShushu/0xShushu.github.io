@@ -72,7 +72,7 @@ note.txt contained the following content:
 Anurodh told me that there is some filtering on strings being put in the command -- Apaar
 ```
 Then, I started testing HTTP (port 80) who was hosting the following static web page:
-<webpage.png>
+![](https://raw.githubusercontent.com/0xShushu/0xShushu.github.io/master/_posts/img_chillhack/webpage.png)
 That page contained nothing of useful so I did a directory bruteforce with dirsearch
 ```
 $ dirsearch -u http://chillhack.thm -w $LIST/directory/dir.txt -t 50 -o directory.txt
