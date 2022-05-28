@@ -7,6 +7,8 @@ Write-up for CyberHeroes TryHackMe CTF
 
 Hi hackers, today I’m gonna write-up CyberHeroes, a medium TryHackMe CTF.
 
+![](https://tryhackme-images.s3.amazonaws.com/room-icons/e8874c2d58c8ff0df78b5183fb828c81.png)
+
 ## Flag
 First, I did port scanning with rustscan and nmap to find any open ports
 ```
