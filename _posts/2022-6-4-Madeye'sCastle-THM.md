@@ -7,7 +7,7 @@ Write-up for Madeye's Castle TryHackMe CTF
 
 Hi hackers, today I’m gonna write-up Madeye's castle, a medium TryHackMe CTF.
 
-![](https://tryhackme-images.s3.amazonaws.com/room-icons/ca10be057f31be4048d374946a602785.jpeg)
+![](https://miro.medium.com/max/1400/0*C4ZjHeB6jB9l_loX.jpeg)
 
 ## User
 Fist, I did port scanning with rustscan and nmap
